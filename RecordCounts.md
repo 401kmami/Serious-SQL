@@ -1,5 +1,10 @@
 # Record Counts & Distinct Values
 
+Notes by Gabriella Santoyo :blush:
+
+& these are my SQL notes from Data with Danny's [Serious SQL Course](https://www.datawithdanny.com/)
+
+
 
 <p align="center">
   <img width="500" height="500" src="https://img.ifunny.co/images/c9e6531e6ac4cb38f0c9bf554e878e7e0c5785be48694903a0852e5ce43e650d_1.jpg">
